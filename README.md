@@ -9,7 +9,7 @@
 
 **Auto Text Gen** is a deep learning-powered application that predicts the next word in a sentence using **LSTM (Long Short-Term Memory)** networks. Trained on a **storyline-based dataset**, the model captures narrative structure and provides intelligent next-word predictions via a **Streamlit web app**.
 
-🔗 **Live Demo**: [https://auto-text-gen.streamlit.app](https://auto-text-gen.streamlit.app)
+🔗 **Live Demo**: [https://auto-text-gen.streamlit.app](https://autotextgen.streamlit.app/)
 
 ---
 

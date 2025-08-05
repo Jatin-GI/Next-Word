@@ -1,7 +1,7 @@
-streamlit==1.47.1
+streamlit
 numpy
 pandas
 scikit-learn
 matplotlib
-tensorflow==2.19.0
+tensorflow
 keras
